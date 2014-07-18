@@ -1,0 +1,32 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.walkernation</groupId>
+	<artifactId>java-cli-app-parent-pom</artifactId>
+	<version>1.0-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+
+	<properties>
+
+		<!-- Project Properties -->
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+		<!-- Dependency Versions -->
+		<!-- Project Properties -->
+		<junit-version>3.8.1</junit-version>
+		<commons-io-version>2.4</commons-io-version>
+		<commons-cli-version>1.2</commons-cli-version>
+		<json-simple-version>1.1.1</json-simple-version>
+		<wink-json4j-version>1.4</wink-json4j-version>
+		<weka-stable-version>3.6.10</weka-stable-version>
+
+		<!-- Plugin Versions -->
+		
+		<!-- Plugin Management Versions -->
+		
+		
+	</properties>
+
+</project>
